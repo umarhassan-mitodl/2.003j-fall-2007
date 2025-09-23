@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 5817f0a5-35ce-d994-9c66-84e1ef1fe843
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ac0c9ac5-dcb8-2a2a-4584-e9612066b0d9
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 78f1656d-f317-625d-476b-300d9bef14e7
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 30
+- identifier: d9e55a5b-0459-56e5-d20b-269f1fb7dcd5
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 2cecd7cb-e2e9-7511-8d97-ba6e4895727d
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: e591073d-637f-2015-2c3a-dfe6470dee71
+  name: MATLAB Sessions
+  pageRef: /pages/matlab-sessions
+  weight: 60
+- identifier: b7806f35-a1bf-e6a2-0308-951f8c19f8df
+  name: Exams
+  pageRef: /pages/exams
+  weight: 70
