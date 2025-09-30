@@ -5,6 +5,8 @@ description: Lecture handout on rigid body dynamics, generalized coordinates, an
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/9a45c8a9cfbd2434989813431d6db1d4_lagrange.pdf
 file_size: 104997
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

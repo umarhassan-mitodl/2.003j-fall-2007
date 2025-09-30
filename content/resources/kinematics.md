@@ -6,6 +6,8 @@ description: Lecture handout on kinematics, dynamics, how the course is laid out
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/dfeddd3f1feb4d82ef161b066f6a6ba5_kinematics.pdf
 file_size: 148700
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

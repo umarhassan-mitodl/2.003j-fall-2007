@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information on weekly MATLAB sessions taught by
   Professor Peter T. C. So, and MATLAB homework sets assigned in addition to the problem
   sets listed on the assignments page.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: MATLAB Sessions

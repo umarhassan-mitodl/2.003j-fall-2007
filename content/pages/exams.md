@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the course exams, study problems, and sample exams
   from a previous semester.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
