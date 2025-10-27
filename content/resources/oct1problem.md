@@ -5,8 +5,6 @@ description: Lecture handout with notes on a problem about a skier sliding on se
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/1205dffcf7320bff8bc5b19e28421424_oct1problem.pdf
 file_size: 42870
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

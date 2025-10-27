@@ -5,8 +5,6 @@ description: Lecture handout on the dynamics of rigid bodies, the easy free equa
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/0e133cdaed77c88d433c55da8cea520d_rigid_bodies.pdf
 file_size: 134143
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

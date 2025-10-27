@@ -4,8 +4,6 @@ description: Supplemental instructions for problem set 3.
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/10da76b85eca866e8e5881fdd855dd8b_ps3_note.txt
 file_size: 1791
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

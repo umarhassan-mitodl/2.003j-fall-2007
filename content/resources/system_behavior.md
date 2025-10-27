@@ -6,8 +6,6 @@ description: Lecture handout on the behavior of dynamic systems, solving the dif
 file: /courses/2-003j-dynamics-and-control-i-fall-2007/2cdba03827d012dc69402e8bb8828815_system_behavior.pdf
 file_size: 316875
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
