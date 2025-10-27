@@ -34,7 +34,7 @@
     "website": "2-003j-dynamics-and-control-i-fall-2007"
   },
   "course_title": "Dynamics and Control I",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This class is an introduction to the dynamics and vibrations of lumped-parameter models of mechanical systems. Topics include kinematics; force-momentum formulation for systems of particles and rigid bodies in planar motion; work-energy concepts; virtual displacements and virtual work; Lagrange's equations for systems of particles and rigid bodies in planar motion; linearization of equations of motion; linear stability analysis of mechanical systems; free and forced vibration of linear multi-degree of freedom models of mechanical systems; and matrix eigenvalue problems. The class includes an introduction to numerical methods and using MATLAB\u00ae to solve dynamics and vibrations problems.\n\nThis version of the class stresses kinematics and builds around a strict but powerful approach to kinematic formulation which is different from the approach presented in Spring 2007. Our notation was adapted from that of Professor Kane of Stanford University.\n",
   "department_numbers": [
@@ -47,7 +47,6 @@
     "content": "ca32d409-d6b2-10c1-a5ec-a94cd6b6ebf3",
     "website": "2-003j-dynamics-and-control-i-fall-2007"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
